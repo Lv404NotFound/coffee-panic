@@ -1,0 +1,13 @@
+.import/
+.export/
+.export-templates/
+*.godot
+*.tmp
+*.log
+*.cfg
+*.imported.*
+*.converted.*
+.DS_Store
+Thumbs.db
+*.user
+*.userprefs
